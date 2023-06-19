@@ -62,7 +62,7 @@ DefaultContentLanguage = "en"
 [params]
 defaultSkin = "light"
 dateFormat = "January 2, 2006"
-authorName = "Federico Ober"
+authorName = "Starling Lab"
 disqusComments = "test" #YOUR DISQUS COMMENTS SHORTNAME
 formspreeURL = "" #YOUR FORMSPREE URL
 googleAnalytics = "" #YOUR GOOGLE ANALYTICS CODE
@@ -79,7 +79,6 @@ logo = "images/ober_logo.png"
 [params.footer]
 copyright = "© 2022 Ober. All Rights Reserved"
 developer = "bslthemes"
-
 # Social Settings
 [[params.social]]
 title = "Twitter"
